@@ -1,0 +1,19 @@
+{
+  "name": "class-validator-intro",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mateja176)",
+  "license": "MIT",
+  "dependencies": {
+    "class-validator": "^0.10.1",
+    "nodemon": "^1.19.3",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  }
+}
